@@ -10,6 +10,7 @@
   -q, --quiet .............. minimise nodemon messages to start/stop only.
   -V, --verbose ............ show detail on what is causing restarts.
   -I, --no-stdin ........... don't try to read from stdin.
+  -r, --restartable s ...... restart script when pressing "s" (default = "rs").
   -C, --on-change-only ..... execute script on change only, not startup
   --no-colors .............. disable color output
   -d, --delay n ............ debounce restart for "n" seconds.
